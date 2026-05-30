@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsave",
+        "uuid": 8773398,
+        "checksum": "pwmmti"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
